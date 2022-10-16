@@ -1,2 +1,2 @@
-# Weather Station (Java)
+# Weather Station (C++)
 
