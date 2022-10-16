@@ -1,2 +1,2 @@
-# Weather Station
+# Weather Station (Java)
 
