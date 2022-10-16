@@ -1,2 +1,2 @@
-# Analyzing Weather
+# Analyze Weather
 
