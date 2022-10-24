@@ -10,14 +10,6 @@ Displays numbers from the text file RainOrShine.txt.
 
 ## Getting Started
 
-### Dependencies
-
-- Windows 10
-
-### Setup
-
-* Deployment: CLI
-
 ## Version History
 
 * 0.1
